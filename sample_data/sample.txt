@@ -1,0 +1,12 @@
+
+This is a short sample representing a few paragraphs from a non-fiction book.
+It contains ideas about habits, decision-making, and cognitive biases.
+
+Chapter 1: Habits
+Habits are loops of cue, routine, and reward. They can be reshaped by changing the routine while keeping the cue and reward intact.
+
+Chapter 2: Decisions
+Decisions under uncertainty benefit from probabilistic thinking, small bets, and feedback loops. Avoid sunk-cost fallacy and outcome bias.
+
+Chapter 3: Biases
+Common biases include confirmation bias, availability bias, and anchoring. Counter them with checklists, pre-mortems, and diverse viewpoints.
