@@ -39,4 +39,5 @@ OPENAI_API_KEY=your_api_key_here
 
 ### 3) Test
 
-python -m app.cli --pdf sample_data/test.pdf --max-chars 3000
+cd src
+python -m app.cli --pdf-file ../sample_data/test.pdf
